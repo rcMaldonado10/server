@@ -6,7 +6,7 @@ var index = require("./routes/index");
 var admin = require("./routes/admin");
 var reservations = require("./routes/reservations");
 
-var port = 3000;
+var port = 4000;
 
 var app = express();
 
